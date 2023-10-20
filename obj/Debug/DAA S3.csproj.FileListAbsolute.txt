@@ -1,0 +1,8 @@
+C:\Users\USER\source\repos\DAA S3\bin\Debug\DAA S3.exe.config
+C:\Users\USER\source\repos\DAA S3\bin\Debug\DAA S3.exe
+C:\Users\USER\source\repos\DAA S3\bin\Debug\DAA S3.pdb
+C:\Users\USER\source\repos\DAA S3\obj\Debug\DAA S3.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\DAA S3\obj\Debug\DAA S3.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\DAA S3\obj\Debug\DAA S3.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\DAA S3\obj\Debug\DAA S3.exe
+C:\Users\USER\source\repos\DAA S3\obj\Debug\DAA S3.pdb
